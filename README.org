@@ -1,0 +1,10 @@
+* clsql-helper
+
+A Common Lisp library to smooth some of CLSQLs rough edges
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/clsql-helper.git   |
+| commit  | 846b67a  |
+| systems | clsql-helper |
+|---------+-------------------------------------------|
+
